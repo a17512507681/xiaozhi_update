@@ -1,0 +1,9 @@
+{
+    "target": "esp32c3",
+    "builds": [
+        {
+            "name": "genjutech-c3-1.28tft",
+            "sdkconfig_append": []
+        }
+    ]
+}
